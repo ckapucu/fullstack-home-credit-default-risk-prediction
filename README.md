@@ -15,5 +15,8 @@ https://home-credit-dsmlbc5.herokuapp.com/
 
 ## Authors
 
-- [@ckapucu](https://www.github.com/ckapucu)
-- [@ckapucu](https://www.github.com/ckapucu)
+- [@ckapucu](https://github.com/ckapucu)
+- [@aysetegen](https://github.com/aysetegen)
+- [@Sam-Power](https://github.com/Sam-Power)
+- Simge Ilgım Horat
+- Züleyha Koç
