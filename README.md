@@ -2,15 +2,15 @@
 
 # Full Stack Home Credit Default Risk Prediction
 
-In this project I have deployed a prediction model to the cloud (Heroku) by using Flask on backend and VueJS on frontend.
+In this project, I have deployed a prediction model to the cloud (Heroku) by using Flask on the backend and VueJS on the frontend.
 
-Thanks to Ayşe Teğen, Semih Uslu, Simge Ilgım Horat and Züleyha Koç. This is a team-work. Home crefit default risk dataset consists of several data table in csv format.
+Thanks to Ayşe Teğen, Semih Uslu, Simge Ilgım Horat and Züleyha Koç. This is teamwork. Home credit default risk dataset consists of several data tables in CSV format.
 
-In the workload, I took the responsibility of studying the previous-applications data table and converting the final ensemble model (LightGBM + CatBoost) into a full stack web application.
+In the workload, I took the responsibility of studying the previous applications data table and converting the final ensemble model (LightGBM + CatBoost) into a full-stack web application.
 
 The content will be uploaded soon.
 
-Meanwhile you can visit and test the app on this address.
+Meanwhile, you can visit and test the app at this address.
 https://home-credit-dsmlbc5.herokuapp.com/
 
 ## Authors
