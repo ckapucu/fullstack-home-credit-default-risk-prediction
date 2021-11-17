@@ -6,7 +6,7 @@ In this project, I have deployed a prediction model to the cloud (Heroku) by usi
 
 Thanks to Ayşe Teğen, Semih Uslu, Simge Ilgım Horat and Züleyha Koç. This is teamwork. Home credit default risk dataset consists of several data tables in CSV format.
 
-In the workload, I took the responsibility of studying the previous applications data table and converting the final ensemble model (LightGBM + CatBoost) into a full-stack web application.
+In the workload, I took the responsibility of `studying the previous applications data table` and `converting the final ensemble model (LightGBM + CatBoost) into a full-stack web application`.
 
 The content will be uploaded soon.
 
