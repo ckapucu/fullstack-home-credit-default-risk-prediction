@@ -1,0 +1,10 @@
+gunicorn
+Flask
+Flask-Compress
+Flask-Cors
+python-dotenv
+joblib
+numpy
+scikit-learn
+lightgbm
+catboost
